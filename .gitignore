@@ -1,0 +1,7 @@
+*.xcuserstate
+Pods
+.DS_Store
+xcschememanagement.plist
+/fastlane/report.xml
+/app.app.dSYM.zip
+/app.ipa
